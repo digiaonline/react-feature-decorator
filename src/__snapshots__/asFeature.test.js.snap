@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Disabled features are not rendered 1`] = `null`;
+
+exports[`Enabled features are rendered 1`] = `
+<div>
+  This is my enabled feature
+</div>
+`;
